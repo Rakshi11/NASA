@@ -1,0 +1,14 @@
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\bin\Debug\net8.0\MarsRoverApp.exe
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\bin\Debug\net8.0\MarsRoverApp.deps.json
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\bin\Debug\net8.0\MarsRoverApp.runtimeconfig.json
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\bin\Debug\net8.0\MarsRoverApp.dll
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\bin\Debug\net8.0\MarsRoverApp.pdb
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\obj\Debug\net8.0\MarsRoverApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\obj\Debug\net8.0\MarsRoverApp.AssemblyInfoInputs.cache
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\obj\Debug\net8.0\MarsRoverApp.AssemblyInfo.cs
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\obj\Debug\net8.0\MarsRoverApp.csproj.CoreCompileInputs.cache
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\obj\Debug\net8.0\MarsRoverApp.dll
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\obj\Debug\net8.0\refint\MarsRoverApp.dll
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\obj\Debug\net8.0\MarsRoverApp.pdb
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\obj\Debug\net8.0\MarsRoverApp.genruntimeconfig.cache
+C:\Users\GOLLAPELLY RAKSHITHA\Desktop\Project\MarsRoverApp\obj\Debug\net8.0\ref\MarsRoverApp.dll
